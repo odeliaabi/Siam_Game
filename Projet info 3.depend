@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1480860620 source:c:\users\augustin\documents\projet_siam_2016\main.cpp
+	<iostream>
+	"partie.h"
+
+1480896799 source:c:\users\augustin\documents\projet_siam_2016\partie.cpp
+	"partie.h"
+	<cstdlib>
+	<conio.h>
+
+1480910923 c:\users\augustin\documents\projet_siam_2016\partie.h
+	<vector>
+	"pion.h"
+	"plateau.h"
+	"joueur.h"
+
+1480909771 c:\users\augustin\documents\projet_siam_2016\joueur.h
+	"pion.h"
+	"animal.h"
+	"plateau.h"
+
+1480710762 c:\users\augustin\documents\projet_siam_2016\animal.h
+	"pion.h"
+
+1480710762 c:\users\augustin\documents\projet_siam_2016\pion.h
+	<iostream>
+
+1480896709 c:\users\augustin\documents\projet_siam_2016\plateau.h
+	"pion.h"
+	"animal.h"
+	<vector>
+
+1480711313 source:c:\users\augustin\documents\projet_siam_2016\animal.cpp
+	"animal.h"
+
+1480904927 source:c:\users\augustin\documents\projet_siam_2016\pion.cpp
+	"Pion.h"
+
+1480896703 source:c:\users\augustin\documents\projet_siam_2016\plateau.cpp
+	"Plateau.h"
+
+1480909612 source:c:\users\augustin\documents\projet_siam_2016\joueur.cpp
+	"joueur.h"
+	"console.h"
+	"partie.h"
+
+1480702922 source:c:\users\augustin\documents\projet_siam_2016\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1480710762 c:\users\augustin\documents\projet_siam_2016\console.h
+	<iostream>
+
+1480910850 source:c:\users\augustin\documents\projet_siam_2016\fichier.cpp
+	<fstream>
+	<iostream>
+	"fichier.h"
+
+1480910850 c:\users\augustin\documents\projet_siam_2016\fichier.h
+
+1480711314 source:c:\users\abizmil odelia\desktop\projet_siam_2016\animal.cpp
+	"animal.h"
+
+1480710764 c:\users\abizmil odelia\desktop\projet_siam_2016\animal.h
+	"pion.h"
+
+1480710764 c:\users\abizmil odelia\desktop\projet_siam_2016\pion.h
+	<iostream>
+
+1480702924 source:c:\users\abizmil odelia\desktop\projet_siam_2016\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1480710764 c:\users\abizmil odelia\desktop\projet_siam_2016\console.h
+	<iostream>
+
+1480910852 source:c:\users\abizmil odelia\desktop\projet_siam_2016\fichier.cpp
+	<fstream>
+	<iostream>
+	"fichier.h"
+
+1480910852 c:\users\abizmil odelia\desktop\projet_siam_2016\fichier.h
+
+1480909614 source:c:\users\abizmil odelia\desktop\projet_siam_2016\joueur.cpp
+	"joueur.h"
+	"console.h"
+	"partie.h"
+
+1480909772 c:\users\abizmil odelia\desktop\projet_siam_2016\joueur.h
+	"pion.h"
+	"animal.h"
+	"plateau.h"
+
+1480896710 c:\users\abizmil odelia\desktop\projet_siam_2016\plateau.h
+	"pion.h"
+	"animal.h"
+	<vector>
+
+1480910924 c:\users\abizmil odelia\desktop\projet_siam_2016\partie.h
+	<vector>
+	"pion.h"
+	"plateau.h"
+	"joueur.h"
+
+1480860622 source:c:\users\abizmil odelia\desktop\projet_siam_2016\main.cpp
+	<iostream>
+	"partie.h"
+
+1480911280 source:c:\users\abizmil odelia\desktop\projet_siam_2016\partie.cpp
+	"partie.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+
+1480904928 source:c:\users\abizmil odelia\desktop\projet_siam_2016\pion.cpp
+	"Pion.h"
+
+1480896704 source:c:\users\abizmil odelia\desktop\projet_siam_2016\plateau.cpp
+	"Plateau.h"
+
+1480714914 source:d:\ing2\semestre 1\info\projet_siam_2016\animal.cpp
+	"animal.h"
+
+1480714364 d:\ing2\semestre 1\info\projet_siam_2016\animal.h
+	"pion.h"
+
+1480714364 d:\ing2\semestre 1\info\projet_siam_2016\pion.h
+	<iostream>
+
+1480706524 source:d:\ing2\semestre 1\info\projet_siam_2016\console.cpp
+	"console.h"
+	<conio.h>
+	<windows.h>
+
+1480714364 d:\ing2\semestre 1\info\projet_siam_2016\console.h
+	<iostream>
+
+1480914452 source:d:\ing2\semestre 1\info\projet_siam_2016\fichier.cpp
+	<fstream>
+	<iostream>
+	"fichier.h"
+
+1480914452 d:\ing2\semestre 1\info\projet_siam_2016\fichier.h
+
+1480864222 source:d:\ing2\semestre 1\info\projet_siam_2016\main.cpp
+	<iostream>
+	"partie.h"
+
+1480914524 d:\ing2\semestre 1\info\projet_siam_2016\partie.h
+	<vector>
+	"pion.h"
+	"plateau.h"
+	"joueur.h"
+
+1480900310 d:\ing2\semestre 1\info\projet_siam_2016\plateau.h
+	"pion.h"
+	"animal.h"
+	<vector>
+
+1480913372 d:\ing2\semestre 1\info\projet_siam_2016\joueur.h
+	"pion.h"
+	"animal.h"
+	"plateau.h"
+
+1480914880 source:d:\ing2\semestre 1\info\projet_siam_2016\partie.cpp
+	"partie.h"
+	<fstream>
+	<cstdlib>
+	<conio.h>
+
+1480908528 source:d:\ing2\semestre 1\info\projet_siam_2016\pion.cpp
+	"Pion.h"
+
+1480900304 source:d:\ing2\semestre 1\info\projet_siam_2016\plateau.cpp
+	"Plateau.h"
+

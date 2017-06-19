@@ -1,0 +1,83 @@
+  ______ _______  ______        _______ _______      ______  _     _      _____ _______ _     _
+ |_____/ |______ |  ____ |      |______ |______      |     \ |     |        |   |______ |     |
+ |    \_ |______ |_____| |_____ |______ ______|      |_____/ |_____|      __|   |______ |_____|
+                                                                                              
+
+
+
+
+
+                            !! QUE LA FORCE DE SIAM SOIT AVEC VOUS !!
+
+
+
+
+
+                                           ,-.             __
+                                         ,'   `---.___.---'  `.
+                                       ,'   ,-                 `-._
+                                     ,'    /                       \
+                                  ,\/     /                        \\
+                              )`._)>)     |                         \\
+                              `>,'    _   \                  /       ||
+                                )      \   |   |            |        |\\
+                       .   ,   /        \  |    `.          |        | ))
+                       \`. \`-'          )-|      `.        |        /((
+                        \ `-`   .`     _/  \ _     )`-.___.--\      /  `'
+                         `._         ,'     `j`.__/           `.    \
+                           / ,    ,'         \   /`             \   /
+                           \__   /           _) (               _) (
+                             `--'           /____\             /____\ 
+
+
+
+BUT DU JEU : Apres avoir choisi votre animal (rhinoceros ou montagne ) , vous devez etre le premier à sortir une montagne du plateau 
+___________
+
+COMMENT JOUER ?
+_______________
+
+- Chaque joueur jouera a tour de role . Au debut du jeu , tous les pions sont en dehors du plateau a part les montagenes qui seront 
+placées automatiquement au centre du plateau .
+
+
+COMMENT ENTRER UN ANIMAL SUR LE PLATEAU ?
+_________________________________________
+
+L'animal peut etre entre sur l'une des cases exterieurs du plateau , au niveau des bords .Attention la case doit etre libre .
+- Le joueur doit saisir le choix 1 du menu , 
+- entrer la valeur de la colonne correspondant a un entier compris entre 1 et 5 , 
+- puis la valeur de la ligne qui correspond a un caractere 
+en majusucule compris entre A et E
+- puis choisir l'orientation du pion : 'bas' vers le bas , 'h' vers le haut ,'d' vers la droite,'g' vers la gauche 
+
+
+COMMENT DEPLACER UN ANIMAL SUR LE PLATEAU ?
+____________________________________________
+
+Le joueur ne peut deplacer son pion que d'une case et orthogonalement . Le joueur peut choisir ou non de changer l'orientation de son 
+pion .
+
+
+COMMENT CHANGER L ORIENTATION D UN ANIMAL ?
+____________________________________________
+
+Changer l'orientation d'un pion compte pour un tour.
+
+
+COMMENT SORTIR UN ANIMAL DISPOSE SUR UNE CASE EXTERIEURE ?
+___________________________________________________________
+
+Un joueur peut sortir son pion et decider de la reutiliser ulterieurement . Cette manipulation compte pour un tour .
+
+
+COMMENT SE DEPLACER EN POUSSANT UN PION SUR LE PLATEAU ?
+_________________________________________________________
+
+- Un joueur ne pousser son pion que dans une seule direction : vers l'avant de l'animal (resistance=1).
+- Un animal ne peut pousser un animal qui lui fait face car ils auront la meme force de poussée.
+- On peut pousser en entrant un animal sur le plateau 
+- Pendant une poussee aucun animal ne peut changer d'orientation
+
+
+
